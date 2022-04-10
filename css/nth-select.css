@@ -1,4 +1,4 @@
-p:nth-of-type(1) {
+p:nth-of-type() {
   color: #579175;
   font-weight: 700;
 }
